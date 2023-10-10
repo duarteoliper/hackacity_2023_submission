@@ -5,3 +5,8 @@
 
 
 # Plots
+
+# ---
+
+# [Optional] Development Configs
+pre-commit==3.4.0
