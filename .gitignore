@@ -1,2 +1,2 @@
-data/interim/
-data/processed/
+data/interim/*
+data/processed/*
