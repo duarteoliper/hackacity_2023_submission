@@ -1,5 +1,6 @@
 # Time Series
 
+flake8==6.1.0
 
 # Analytics
 
@@ -10,3 +11,4 @@
 
 # [Optional] Development Configs
 pre-commit==3.4.0
+pycodestyle-2.11.0
