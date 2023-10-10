@@ -3,12 +3,14 @@
 
 [NOTE: RUN `tree` on terminal to get updated file structure]
 ```
+├── LICENSE
 ├── Makefile
 ├── README.md
 ├── data
 │   ├── interim
 │   ├── processed
 │   └── raw
+│       └── README.md
 ├── notebooks
 │   └── README.md
 ├── reports
