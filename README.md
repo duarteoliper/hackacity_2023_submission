@@ -1,7 +1,9 @@
-# Hackacity 2023 - [TEAM NAME] Submission
-[PROJECT DESCRIPTION]
+# Hackacity 2023 - \[TEAM NAME\] Submission
 
-[NOTE: RUN `tree` on terminal to get updated file structure]
+\[PROJECT DESCRIPTION\]
+
+\[NOTE: RUN `tree` on terminal to get updated file structure\]
+
 ```
 ├── LICENSE
 ├── Makefile
@@ -21,12 +23,12 @@
 └── src
 ```
 
-* To create a new environment and install all dependencies, run:
-`conda env create -f environment.yml`
-`conda activate python3.9`
-`make build venv-hackacity`
+- To create a new environment and install all dependencies, run:
+  `conda env create -f environment.yml`
+  `conda activate python3.9`
+  `make build-venv-hackacity`
 
-* Install direnv in official website and run `direnv allow` to utilize src/config.py paths
+- Install direnv in official website and run `direnv allow` to utilize src/config.py paths
 
-* [Optional] To install pre-commit, run:
-`make install-pre-commit`
+- \[Optional\] To install pre-commit, run:
+  `make install-pre-commit`
