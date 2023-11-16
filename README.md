@@ -21,7 +21,7 @@
 └── src
 ```
 
-* To create a new environemnt and install all dependencies, run:
+* To create a new environment and install all dependencies, run:
 `conda env create -f environment.yml`
 `conda activate python3.9`
 `make build venv-hackacity`
