@@ -28,7 +28,7 @@
   `conda activate python3.9`
   `make build-venv-hackacity`
 
-- Install direnv in official website (command should be something like `curl -sfL https://direnv.net/install.sh | bash`)
+- Install direnv (check official website), run: `curl -sfL https://direnv.net/install.sh | bash`)
   - Then, run `direnv allow` to utilize src/config.py paths
 
 - \[Optional\] To install pre-commit, run:
