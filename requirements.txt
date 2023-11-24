@@ -16,3 +16,4 @@ scikit-learn==1.3.2
 seaborn==0.13.0
 folium==0.15.0
 overpass==0.7
+geopy==2.4.1
