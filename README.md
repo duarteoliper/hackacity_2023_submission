@@ -1,8 +1,6 @@
-# Hackacity 2023 - \[TEAM NAME\] Submission
+# Hackacity 2023 - Quintetão Submission
 
-\[PROJECT DESCRIPTION\]
-
-\[NOTE: RUN `tree` on terminal to get updated file structure\]
+Explore data for road constraint dashboard.
 
 ```
 .
@@ -24,8 +22,6 @@
 ├── reports
 │   ├── deliverables
 │   ├── figures
-│   │   └── air_quality_ParqueDaCidade.png
-│   ├── porto_road_network.html
 │   └── templates
 ├── requirements.txt
 └── src
